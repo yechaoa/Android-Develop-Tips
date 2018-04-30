@@ -107,6 +107,12 @@
 ### ContextCompat.getColor(context, R.color.color_name)
 * 代替getColor(int)
 
+### app:tabTextAppearance="@android:style/TextAppearance.Widget.TabWidget"
+* 解决TabLayout默认英文大写
+
+### android:textAllCaps="false"
+* 解决Button默认英文大写
+
 ### [快捷键](https://blog.csdn.net/yechaoa/article/details/53745386)
 * 提高开发效率
 
