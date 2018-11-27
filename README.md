@@ -113,6 +113,10 @@
 ### android:textAllCaps="false"
 * 解决Button默认英文大写
 
+### android:includeFontPadding="false"
+* 去掉TextView内部padding
+
+
 ### [快捷键](https://blog.csdn.net/yechaoa/article/details/53745386)
 * 提高开发效率
 
